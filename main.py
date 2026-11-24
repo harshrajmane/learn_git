@@ -1,4 +1,2 @@
-print(harsh)
-
 print(hii)
-
+print(harsh)
